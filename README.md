@@ -31,7 +31,7 @@ This project is a **Customer Support Chatbot** designed to assist users by respo
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/customer-support-chatbot.git
+   git clone https://github.com/vtg2k/cutomer_support_chatbot.git
    cd customer-support-chatbot
    ```
 
